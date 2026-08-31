@@ -3,10 +3,11 @@
 **Knowledge Context** — machinery for making what an organisation knows
 retrievable, attributable and usable by both humans and agents.
 
-> **Status: design phase.** No implementation yet. This repository currently
-> holds the research and the plan that will justify the first line of code.
-> The PyPI name `kc` previously carried unrelated filtering utilities
-> (≤ 0.0.7); the package is being repurposed from 0.0.8 onward.
+> **Status: design phase — and the design concluded this should probably not be a package.**
+>
+> No implementation, and none is planned here yet. The research (below) found that the local package ecosystem already ships every component a knowledge-context layer implies, leaving one unclaimed gap: **access control at the retrieval boundary**. A design panel then argued that this contract belongs *inside* the retrieval substrate that already owns the pre-filter it depends on, rather than in a new distribution wrapped around it. See [`docs/plan.md`](docs/plan.md) for the decision and the one condition that would reverse it.
+>
+> The PyPI name `kc` previously carried unrelated filtering utilities (≤ 0.0.7). Publishing is held closed in `pyproject.toml` so that 0.0.8 is not burned on a placeholder.
 
 ## Where to start
 

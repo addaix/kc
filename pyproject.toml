@@ -162,7 +162,13 @@ sdist = true
 wheel = true
 
 [tool.wads.ci.publish]
-enabled = true
+# Held closed until the design in docs/plan.md is approved and there is an
+# implementation to ship. The PyPI name carried unrelated filtering utilities
+# through 0.0.7; 0.0.8 is the first version of the rewrite and a PyPI version
+# number is burned permanently once uploaded, so an accidental publish of this
+# placeholder would cost the very version this package is meant to start at.
+# Flip to true in the same commit as the first real release.
+enabled = false
 skip_ci_marker = "[skip ci]"
 publish_marker = "[publish]"
 

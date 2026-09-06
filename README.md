@@ -1,7 +1,6 @@
 # kc
 
-**Knowledge Context** — machinery for making what an organisation knows
-retrievable, attributable and usable by both humans and agents.
+**Knowledge Context** — machinery for making what an organisation knows retrievable, attributable and usable by both humans and agents.
 
 > **Status: design phase — and the design concluded this should probably not be a package.**
 >

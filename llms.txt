@@ -1,0 +1,19 @@
+# kc
+
+> Knowledge Context
+
+
+## Pages
+
+- [kc](index.html.md): &#42;&#42;Knowledge Context&#42;&#42; — machinery for making what an organisation knows retrievable, attributable an...
+- [API reference](api.html.md): | &#96;kc&#96;   | Knowledge Context.   |
+- [kc](_autosummary/kc.html.md): Knowledge Context.
+- [About this build](about-this-build.html.md): This documentation was built on &#42;&#42;2026-11-21 14:48 UTC&#42;&#42; from commit &lt;a href="https://github.com/add...
+
+## Optional
+
+- [kc.md](kc.md): Complete documentation in a single file.
+
+## Build
+
+- [build_info.json](build_info.json): build provenance (commit, version, tool versions, whether the docs match the package)

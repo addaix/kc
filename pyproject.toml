@@ -25,9 +25,9 @@ authors = [
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/thorwhalen/kc"
-Repository = "https://github.com/thorwhalen/kc"
-Documentation = "https://thorwhalen.github.io/kc"
+Homepage = "https://github.com/addaix/kc"
+Repository = "https://github.com/addaix/kc"
+Documentation = "https://addaix.github.io/kc"
 
 [project.optional-dependencies]
 dev = [

@@ -2,7 +2,7 @@
 
 # About this build
 
-This documentation was built on **2026-11-21 14:48 UTC** from commit <a href="https://github.com/addaix/kc/commit/c7b320d6f138441a1ad7317dbd23dd99d877cc61"><code>c7b320d</code></a> on branch <code>main</code>, for **kc 0.0.8** (from <code>pyproject.toml</code>).
+This documentation was built on **2026-11-22 14:01 UTC** from commit <a href="https://github.com/addaix/kc/commit/39e79230a32c6f6fcfe5a91977cf0f029f4ecf47"><code>39e7923</code></a> on branch <code>main</code>, for **kc 0.0.8** (from <code>pyproject.toml</code>).
 
 #### WARNING
 The documentation and the package may be misaligned:
@@ -13,7 +13,7 @@ The documentation and the package may be misaligned:
 
 |                     |                                                                                                                                                  |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| Commit              | <a href="https://github.com/addaix/kc/commit/c7b320d6f138441a1ad7317dbd23dd99d877cc61"><code>c7b320d6f138441a1ad7317dbd23dd99d877cc61</code></a> |
+| Commit              | <a href="https://github.com/addaix/kc/commit/39e79230a32c6f6fcfe5a91977cf0f029f4ecf47"><code>39e79230a32c6f6fcfe5a91977cf0f029f4ecf47</code></a> |
 | Branch              | <code>main</code>                                                                                                                                |
 | Tags at this commit | none                                                                                                                                             |
 | Working tree        | clean                                                                                                                                            |
@@ -24,15 +24,15 @@ The documentation and the package may be misaligned:
 |              |                                                                                            |
 |--------------|--------------------------------------------------------------------------------------------|
 | Repository   | <code>addaix/kc</code>                                                                     |
-| Run          | <a href="https://github.com/addaix/kc/actions/runs/44915732722">44915732722</a>            |
+| Run          | <a href="https://github.com/addaix/kc/actions/runs/45030375033">45030375033</a>            |
 | Ref          | <code>refs/heads/main</code>                                                               |
-| Event commit | <code>c7b320d6f138441a1ad7317dbd23dd99d877cc61</code> (in the history of the built commit) |
+| Event commit | <code>39e79230a32c6f6fcfe5a91977cf0f029f4ecf47</code> (in the history of the built commit) |
 
 ## Tools
 
 |          |         |
 |----------|---------|
-| epythet  | 0.2.22  |
+| epythet  | 0.2.23  |
 | Sphinx   | 9.1.1   |
 | docutils | 0.22.4  |
 | Python   | 3.12.16 |
@@ -57,8 +57,8 @@ Latest release: <a href="https://pypi.org/project/kc/0.0.7/">0.0.7</a>, older th
 
 ```bash
 git clone https://github.com/addaix/kc && cd kc
-git checkout c7b320d6f138441a1ad7317dbd23dd99d877cc61
-pip install "epythet==0.2.22"
+git checkout 39e79230a32c6f6fcfe5a91977cf0f029f4ecf47
+pip install "epythet==0.2.23"
 epythet quickstart . --ignore tests/ scrap/ examples/
 ```
 

@@ -1,6 +1,6 @@
 # kc
 
-> Knowledge Context
+> Knowledge Context — making what an organisation knows retrievable and attributable for humans and agents
 
 
 ## Pages in this subsection

@@ -7,10 +7,19 @@ build-backend = "hatchling.build"
 [project]
 name = "kc"
 version = "0.0.8"
-description = "Knowledge Context"
+description = "Knowledge Context — making what an organisation knows retrievable and attributable for humans and agents"
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.10"
+classifiers = [
+    "Development Status :: 2 - Pre-Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
 keywords = [
     "knowledge-context",
     "organizational-memory",
